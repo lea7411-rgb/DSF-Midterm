@@ -8,14 +8,14 @@ We built and evaluated models using TensorFlow to predict compound activity (pIC
 1 Background Questions
 2 Local Training and Testing of the Neural Network              
 ── 2.1 Questions       
-── 2.2 Code and Documentation
-3 Training Neural Network on Ubelix
-── 3.1 Questions 
-── 3.2 Submission script
-── 3.3 Code and Documentation  
-4 Training Random Forest on Ubelix
-── 4.1 Submission script
-── 4.2 Code and Documentation
+── 2.2 Code and Documentation  
+3 Training Neural Network on Ubelix  
+── 3.1 Questions   
+── 3.2 Submission script  
+── 3.3 Code and Documentation    
+4 Training Random Forest on Ubelix  
+── 4.1 Submission script  
+── 4.2 Code and Documentation  
 
 ## Setup
 
