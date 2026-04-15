@@ -1,11 +1,20 @@
 # DSF-Midterm Project
 
-This project analyzes fingerprint vectors using machine learning techniques.
+This project analyzes fingerprint vectors using machine learning techniques.  
 We built and evaluated models using TensorFlow to predict compound activity (pIC50).
+
+## Files
+
+- midterm_project.ipynb   # complete analysis and results
+
+This notebook contains the full workflow:  
+- data preprocessing  
+- model training (TensorFlow)  
+- evaluation  
 
 ## Structure
 
-1 Background Questions
+1 Background Questions  
 2 Local Training and Testing of the Neural Network              
 ── 2.1 Questions       
 ── 2.2 Code and Documentation  
